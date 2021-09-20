@@ -2,4 +2,4 @@
 
 [countries](https://web-rest-countries.netlify.app/)
 
-![countries]('/src/countries.png')
+![countries](./src/countries.png)
